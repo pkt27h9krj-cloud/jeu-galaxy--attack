@@ -1,0 +1,9 @@
+APAISE — Installation sur iPhone
+
+1. Décompressez ce fichier ZIP.
+2. Hébergez les fichiers ensemble sur un site HTTPS (par exemple votre hébergeur web).
+3. Ouvrez l’adresse du site dans Safari sur l’iPhone.
+4. Touchez Partager, puis « Sur l’écran d’accueil ».
+5. Validez « Ajouter ». APAISE apparaîtra comme une application.
+
+Important : pour l’installation PWA et le cache hors ligne, les fichiers doivent rester ensemble sur le même hébergement HTTPS. Ouvrir directement index.html depuis Fichiers ne suffit généralement pas à activer toutes les fonctions PWA.
